@@ -1,1 +1,2 @@
 This is notes for my localhost django project
+So ignore this file as optional..
